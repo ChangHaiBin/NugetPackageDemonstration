@@ -59,6 +59,8 @@
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="ChartingFSharp.fs" />
+    <Compile Include="MatrixCommon.fs" />
+    <Compile Include="FSharpDataBasic.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
     <Content Include="packages.config" />
